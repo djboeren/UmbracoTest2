@@ -1,0 +1,2 @@
+﻿2015-07-07 08:56:31,624 [26] INFO  Umbraco.Core.Security.UmbracoMembershipProviderBase - [T84/D4] Login attempt succeeded for username dj.boeren@colours.nl from IP address 127.0.0.1
+2015-07-07 08:56:31,660 [26] INFO  Umbraco.Web.Security.WebSecurity - [T84/D4] User Id: 0 logged in
